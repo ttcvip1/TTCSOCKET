@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 
 # Sample hardcoded credentials (for demonstration purposes)
 valid_username = "@TitanicTradingCommunity"
-valid_password = "@TitanicTradingCommunity"
+valid_password = "@ttcvip"
 
 # Function to convert time string to datetime object
 def str_to_time(time_str):
