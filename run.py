@@ -127,7 +127,7 @@ def login():
 
 # Main function to simulate the software
 def run_software():
-    print("             T             T             C")
+    print("         T       T         C")
     time.sleep(1)  # Simulate delay for loading screen
 
     # Handle user login
